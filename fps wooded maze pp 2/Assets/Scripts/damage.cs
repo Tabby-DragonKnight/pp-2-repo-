@@ -1,4 +1,4 @@
-using Unity.VisualScripting.ReorderableList;
+//using Unity.VisualScripting.ReorderableList;
 using UnityEngine;
 
 public class Damage : MonoBehaviour
@@ -23,6 +23,18 @@ public class Damage : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+        if (other.isTrigger)
+            return;
 
+        IDamage dmg = other.GetComponent<IDamage>();
+        if (dmg != null)
+        {
+            dmg.takedamage(damageamount);
+        }
+
+        if (type == damagetype.moving)
+        {
+            Destroy(gameObject);
+        }
     }
 }
