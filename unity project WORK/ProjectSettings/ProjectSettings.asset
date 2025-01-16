@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 0aa6484d4be84804c948a1a4248e5ca5
+  productGUID: 2430a9c5641f89846bada9081a18b6da
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: fps wooded maze pp 2
+  productName: Forest Maze FPS
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -675,14 +675,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: fps wooded maze pp 2
+  metroPackageName: Forest Maze FPS
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: fps wooded maze pp 2
+  metroApplicationDescription: Forest Maze FPS
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 9d14be20-182f-49dd-b82d-0614fcfd9d72
+  cloudProjectId: 6d2dd3be-f920-4d89-82cc-be42d250122a
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: fps wooded maze pp 2
+  projectName: Forest Maze FPS
   organizationId: tabby_ls
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
